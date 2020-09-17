@@ -15,12 +15,3 @@ void draw()
   } else
     println("failure");
 }
-
-// 6.b make 3 integer variables named x, y and z. Print "Success!" if their sum is 30, but none of them may have the value of 10, 20 or 30. Otherwise print "Failure!".
-
-int x = 10;
-int y = 9;
-int z = 8;
-
-
-if (x+y+x == 30
